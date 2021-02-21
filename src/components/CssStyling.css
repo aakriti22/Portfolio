@@ -1,0 +1,192 @@
+
+
+.Profession{
+	width: 50%;
+	position: absolute;
+	left: 35%;
+}
+
+.HomePageClass{
+	margin-top: 20%;
+}
+
+.buttonCss{
+	background-color: orange;
+    	padding: 12px;
+    	border-radius: 23px;
+    	color: white;
+	border: none;
+}
+
+.SetMarginHome{
+	margin-top: 5%;
+    	width: 100%;
+    	height: 100%;
+    	float: left;
+	text-align: center;
+	opacity: 0.8;
+	padding-left: 20px;
+}
+
+.SetMargin{
+	margin-top: 5%;
+    	width: 100%;
+    	height: 100%;
+    	float: left;
+	text-align: left;
+	opacity: 0.8;
+	padding-left: 20px;
+}
+
+.SetMargin1{
+	margin-top: 4%;
+    	width: 100%;
+    	height: 100%;
+    	float: left;
+	text-align: left;
+	opacity: 0.8;
+	padding-left: 20px;
+}
+
+.navCss{
+	line-height: 3;
+	font-weight: bold;
+}
+
+.NavStyle{
+	width: 20%;
+    	float: left;
+	height: 100%;
+	width: 20%;
+	float: left;
+	margin-top: 10%;
+}
+
+.NavMenu{
+	width: 20%;
+    	float: left;
+    	padding-top: 80px;
+    	border-right: 15px solid gainsboro;
+    	height: 100%;
+}
+
+.Projects{
+	width: 25%;
+	float: left;
+}
+
+.ProjectsFont{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.Services{
+	width: 26%;
+    	float: left;
+    	background-color: #c198e6;
+    	margin: 5px;
+    	border-radius: 20px;
+    	padding: 30px;
+	height: 215px;
+}
+
+.ServiceHeader{
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.ServiceText{
+	margin-top: 5px;
+}
+
+.AcademicDetails{
+    	width: 47%;
+    	float: left;
+    	height: 400px;
+    	background-color: #f9f9ff;
+    	border-radius: 20px;
+	margin: 10px;
+	padding: 4px;
+}
+
+.headerTop{
+	margin-top: 40px;
+}
+
+.NavBarStyling{
+	font-weight: bold;
+    	line-height: 3;
+}
+
+.ContactClass{
+	width: 50%;
+	float: left;
+}
+
+.InputCss{
+	border-radius: 30px;
+    	height: 40px;
+    	padding: 10px 30px;
+    	font-size: 16px;
+    	font-weight: 400;
+    	line-height: 1.6;
+    	color: #454360;
+    	background-color: #f9f9ff;
+    	background-image: none;
+    	border: 0;
+}
+
+.MarginTop{
+	margin-top: 10px;
+}
+
+.WidthFull{
+	width: 80%;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+button:hover{
+	cursor: pointer;
+	-webkit-transform: scale(1.2);
+  	-ms-transform: scale(1.2);
+  	transform: scale(1.2);
+}
+
+ul {
+    list-style-type: none;
+}
+
+.FontAwesomeStyling{
+	color: red;
+	opacity: 0.7;
+	padding-right: 10px;
+}
+#root{
+	height: 500px;
+}
+
+.MainScreen{
+	height: 100%;
+    	width: 78%;
+    	float: left;
+}
+
+.FullWidthHeight{
+	width: 100%;
+	height: 100%;
+}
+
+.AboutMeContainer{
+	width: 100%;
+	height: 50%;
+}
+
+.AboutMeContent{
+	height: 100%;
+    	width: 90%;
+    	float: left;
+}
